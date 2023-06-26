@@ -64,7 +64,7 @@ button.header-button + * {
     color: white;
 }
 
-section div:only-child {
+.only-child-task div:only-child {
     color: red;
 }
 
@@ -116,7 +116,7 @@ section div:only-child {
 }
 
 .lesson-three-task-nine h2::first-letter {
-    color: blue;
+    color: red;
 }
 
 .lesson-three-task-ten>p::first-line {
