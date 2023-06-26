@@ -119,7 +119,7 @@ button.header-button + * {
     color: red;
 }
 
-.lesson-three-task-ten>p::first-line {
+.lesson-three-task-ten p:first-child::first-line {
     background-color: yellow;
 }
 
